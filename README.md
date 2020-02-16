@@ -1,5 +1,1 @@
-"# rsschool-cv" 
-"# rsschool-cv" 
-"# rsschool-cv" 
-"# rsschool-cv" 
-"# rsschool-cv" 
+https://kanzert.github.io/rsschool-cv/cv
